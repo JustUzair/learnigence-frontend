@@ -32,7 +32,7 @@ Check [Vercel Deployment](https://learnigence-frontend.vercel.app/)
 
 ```
 git clone https://github.com/JustUzair/learnigence-frontend.git
-cd frontend
+cd learnigence-frontend-master
 npm i
 npm run dev
 ```
