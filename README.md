@@ -2,7 +2,14 @@
 
 Check [Vercel Deployment](https://learnigence-frontend.vercel.app/)
 
-## Features
+#### NOTE - Assumptions are made, such as Images and Logos are chosen in a way that they represent original images in the assignment, the color scheme, fonts and stylings are also assumed since no figma file was present at the moment, so are the layout, animations and the transitions to provide a good user experience.
+
+## Key Technologies used:
+
+- ReactJS / NextJS
+- Tailwind CSS
+
+## Features of the app
 
 - Light/dark mode toggle
 - User Authentication
